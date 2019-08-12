@@ -1,0 +1,3 @@
+name = input("Willy Wonka demands your name! ")
+
+print("Hello NAME,\nThanks so much for your order. We will be shipping it tonight. It will have a special greeting of - NAME is super awesome, NAME is the best person in the whole wide world. NAME is super awesome. NAME is super awesome. NAME is super awesome. NAME is super awesome. NAME is super awesome. NAME is super awesome. NAME is super awesome. NAME is super awesome.  \nSincerely, \nWilly Wonka & co".replace("NAME",name))
